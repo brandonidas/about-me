@@ -11,6 +11,8 @@ As a Computer Science TA and president of two high-activity university clubs, I'
 I want to leverage my skills and experiences to contribute to innovative projects, especially in areas that intersect with healthcare, education and technology.
 
 ## Links
+LinkedIn: https://www.linkedin.com/in/brandon-tong-875bba88/
+
 Learning Graphs In Public . https://www.youtube.com/watch?v=4XuvDURK1X8&t=16s
 
 
