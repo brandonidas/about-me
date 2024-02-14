@@ -21,4 +21,5 @@ LinkedIn: https://www.linkedin.com/in/brandon-tong-875bba88/
 
 Learning Graphs In Public: https://www.youtube.com/watch?v=sJn1YEmwAlk
 
+X (formerly Twitter): https://twitter.com/brandolorian
 
