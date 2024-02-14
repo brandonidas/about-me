@@ -9,3 +9,8 @@ My military service in the Singaporean army medical corps instilled in me a prof
 As a Computer Science TA and president of two high-activity university clubs, I've honed my leadership, communication, and teamwork skills. These experiences have taught me the importance of clear, empathetic communication and the value of a collaborative approach to problem-solving.
 
 I want to leverage my skills and experiences to contribute to innovative projects, especially in areas that intersect with healthcare, education and technology.
+
+## Links
+Learning Graphs In Public . https://www.youtube.com/watch?v=4XuvDURK1X8&t=16s
+
+
