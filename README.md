@@ -1,7 +1,5 @@
 
 >** My days in the medical corps were meaningful because _the mission was meaningful._ ** I want to leverage my skills and experiences to contribute to high impact projects, especially in areas that intersect with healthcare, education and technology. 
----
-# Brandon Tong
 
 Hello! I'm Brandon Tong, a recent graduate from the University of British Columbia with a degree in Computer Science. My journey in tech has been driven by a passion for autodidactism and a deep interest in the potential of machine learning systems and high performance backend engineering.
 
@@ -16,11 +14,3 @@ University of British Columbia, BSc. Computer Science, 4.0 GPA with a focus on M
 **
 
 I've been coding since high school in 2014 when I made a full stack web app using M.E.A.N.js (mongodb, express.js, angular.js, node)! That's almost **10 years coding to date.** I love learning, and even during military service, I used my free to finish Andrew Ng's Intro To Machine Learning.
-
-## Links
-LinkedIn: https://www.linkedin.com/in/brandon-tong-875bba88/
-
-Learning Graphs In Public: https://www.youtube.com/watch?v=sJn1YEmwAlk
-
-X (formerly Twitter): https://twitter.com/brandolorian
-
