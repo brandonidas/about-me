@@ -1,5 +1,5 @@
 
->** My days in the medical corps were meaningful because _the mission was meaningful._** I want to leverage my skills and experiences to contribute to high impact projects, especially in areas that intersect with healthcare, education and technology. 
+>** My days in the medical corps were meaningful because _the mission was meaningful._ ** I want to leverage my skills and experiences to contribute to high impact projects, especially in areas that intersect with healthcare, education and technology. 
 ---
 # Brandon Tong
 
