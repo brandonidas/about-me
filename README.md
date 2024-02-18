@@ -5,7 +5,7 @@ Hello :smile: I'm Brandon Tong. My journey in tech has been driven by a deep eng
 
 :microscope: During **university**, I specialized in AI/ML and distributed systems, and gained hands-on in various projects and internships. I've interned at as a software engineer at reputable tech companies such as **Splunk**, where I contributed to launching their edge compute enginer, and ZALORA, where I work on integrating recommendation services into their API gateway.
 
-:crossed_swords: **Military service** in the Singaporean army medical corps instilled in me a sense of mission. That day-to-day intentionality continues to drive my interest in applying technology to impactful endeavours, which is reflected in my academic pursuits in bioinformatics and graduate-level courses in Advanced Machine Learning and NLP.
+:military_helmet: **Military service** in the Singaporean army medical corps instilled in me a sense of mission. That day-to-day intentionality continues to drive my interest in applying technology to impactful endeavours, which is reflected in my academic pursuits in computational biology and graduate-level courses in Advanced Machine Learning and NLP.
 
 # Highlights
 University of British Columbia, BSc. Computer Science, 4.0 GPA with a focus on ML and systems. sed elective credits to pursue graduate coursework in **advanced machine learning, natural language processing, distributed systems, probabilistic and randomised algorithms (which are fascinating!), applied high dimensional probability in computational biology, LLM inference.**
