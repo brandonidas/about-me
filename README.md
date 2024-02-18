@@ -5,7 +5,7 @@ Hello :smile: I'm Brandon Tong. My journey in tech has been driven by a deep eng
 
 :microscope: During **university**, I specialized in AI/ML and distributed systems. I've researched high dimensional probability, maximum innner product search for vector databases, and optimisng LLM inference. 
 
-I've also interned at as a software engineer at reputable tech companies such as **Splunk**, where I contributed to launching their edge compute enginer, and ZALORA, where I work on integrating recommendation services into their API gateway.
+:crystal_ball: I've interned at as a software engineer at reputable tech companies such as **Splunk**, where I contributed to launching their edge compute enginer, and ZALORA, where I work on integrating recommendation services into their API gateway.
 
 :military_helmet: **Military service** in the Singaporean army medical corps instilled in me a sense of mission. That day-to-day intentionality continues to drive my interest in applying technology to impactful endeavours, which is reflected in my academic pursuits in computational biology and graduate-level courses in Advanced Machine Learning and NLP.
 
