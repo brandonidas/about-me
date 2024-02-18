@@ -7,7 +7,9 @@ Hello :smile: I'm Brandon Tong. My journey in tech has been driven by a deep eng
 
 :crossed_swords: **Military service** in the Singaporean army medical corps instilled in me a sense of mission. That day-to-day intentionality continues to drive my interest in applying technology to impactful endeavours, which is reflected in my academic pursuits in bioinformatics and graduate-level courses in Advanced Machine Learning and NLP.
 
-:man_dancing: As a **TA and president** of _two_ high-activity university clubs, I've honed my leadership, communication, and teamwork skills. These experiences have taught me the importance of clear, empathetic communication and the value of a collaborative approach to problem-solving.
-
 # Highlights
 University of British Columbia, BSc. Computer Science, 4.0 GPA with a focus on ML and systems. sed elective credits to pursue graduate coursework in **advanced machine learning, natural language processing, distributed systems, probabilistic and randomised algorithms (which are fascinating!), applied high dimensional probability in computational biology, LLM inference.**
+
+
+:man_dancing: As a **TA and president** of _two_ high-activity university clubs, I've honed my leadership, communication, and teamwork skills.
+
