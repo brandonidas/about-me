@@ -10,4 +10,4 @@ Military service in the Singaporean army medical corps instilled in me a sense o
 As a TA and the president of two high-activity university clubs, I've honed my leadership, communication, and teamwork skills. These experiences have taught me the importance of clear, empathetic communication and the value of a collaborative approach to problem-solving.
 
 # Highlights
-University of British Columbia, BSc. Computer Science, 4.0 GPA with a focus on ML and systems. **Used elective credits to pursue graduate coursework in advanced machine learning, natural language processing, distributed systems, probabilistic and randomised algorithms (which are fascinating!), applied high dimensional probability in computational biology, LLM inference.
+University of British Columbia, BSc. Computer Science, 4.0 GPA with a focus on ML and systems. sed elective credits to pursue graduate coursework in **advanced machine learning, natural language processing, distributed systems, probabilistic and randomised algorithms (which are fascinating!), applied high dimensional probability in computational biology, LLM inference.**
