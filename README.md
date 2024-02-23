@@ -1,7 +1,7 @@
 
 > **My days in the medical corps were meaningful because *the mission was meaningful***. I want to leverage my skills and experiences to contribute to high impact projects, especially in areas that intersect with healthcare, education and technology. 
 
-Hello :smile: I'm Brandon Tong. My journey in tech has been driven by a deep engagement in autodidactism. I've been coding since high school in 2014 when I made a full stack web app using M.E.A.N.js (mongodb, express.js, angular.js, node)! That's almost **10 years coding to date.** I love learning, and even during military service, I used my free to finish Andrew Ng's Intro To Machine Learning.
+Hello :smile: I'm Brandon Tong. My journey in tech has been driven by a deep engagement in autodidactism. I've been coding since high school in 2014 when I made a full stack web app using M.E.A.N.js (mongodb, express.js, angular.js, node)! That's almost **10 years coding to date.** I love learning, and even during military service, I used my free time to finish Andrew Ng's Intro To Machine Learning.
 | :microscope: During **university**| :crystal_ball: In Indsutry |
 |--|--|
 | I specialized in AI/ML and distributed systems. I've researched high dimensional probability, maximum innner product search for vector databases, and optimisng LLM inference | I've interned at as a software engineer at reputable tech companies such as **Splunk**, where I contributed to launching their edge compute enginer, and ZALORA, where I work on integrating recommendation services into their API gateway.|
